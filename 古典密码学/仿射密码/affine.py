@@ -1,3 +1,9 @@
+'''
+@描述: 仿射密码
+@作者: 李天红
+@Github: https://github.com/Celint/cryptography
+@Date: 2019-06-05
+'''
 f = open("Book2.txt", "r")
 Cs = f.read()
 f.close()

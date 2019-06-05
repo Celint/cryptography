@@ -1,3 +1,9 @@
+'''
+@描述: 列移位密码
+@作者: 李天红
+@Github: https://github.com/Celint/cryptography
+@Date: 2019-06-05
+'''
 f = open("Book3.txt", "r")
 str = f.read()
 f.close()
