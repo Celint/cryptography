@@ -1,3 +1,9 @@
+'''
+@描述: RSA因数分解攻击
+@作者: 李天红
+@Github: https://github.com/Celint/cryptography
+@Date: 2019-06-07
+'''
 # 求乘法逆元
 def getGcd(a, b):
     if b == 0:
