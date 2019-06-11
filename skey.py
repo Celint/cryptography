@@ -1,3 +1,9 @@
+'''
+@描述: 
+@作者: 李天红
+@Github: https://github.com/Celint/cryptography
+@Date: 2019-06-11
+'''
 import tkinter as tk
 import tkinter.messagebox 
 import hashlib as hs

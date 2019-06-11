@@ -1,7 +1,7 @@
 '''
 @描述: 广播攻击
 @作者: 李天红
-@Github: https://github.com/Celint/Algorithm-experiment-
+@Github: https://github.com/Celint/cryptography
 @Date: 2019-06-11
 '''
 from gmpy2 import iroot
