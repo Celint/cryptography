@@ -1,0 +1,13 @@
+{
+    "editor.mouseWheelZoom": true,
+    "files.associations": {
+        "iosfwd": "cpp",
+        "iostream": "cpp",
+        "string": "cpp",
+        "cstring": "cpp"
+    },
+    "svn.ignoreMissingSvnWarning": true,
+    "python.pythonPath": "C:\\Users\\Redsky\\AppData\\Local\\Programs\\Python\\Python36\\python.exe",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+}
