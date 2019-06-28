@@ -16,7 +16,7 @@
 ### 4.维吉尼亚密码
 古典密码学/维吉尼亚密码/维吉尼亚密码.py  
 古典密码学/维吉尼亚密码/Book4.txt  
-[ColumnShift](https://github.com/Celint/cryptography/tree/master/古典密码学/维吉尼亚密码)
+[Vigenere](https://github.com/Celint/cryptography/tree/master/古典密码学/维吉尼亚密码)
 ## 现代密码学
 ### 1.RSA因数分解攻击
 现代密码学/RSA1.py  
