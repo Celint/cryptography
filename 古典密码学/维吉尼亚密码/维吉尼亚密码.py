@@ -1,7 +1,7 @@
 ﻿'''
 @描述: 破解维吉尼亚密码
 @作者: 兰彬炎
-@Github: https://github.com/Celint/Algorithm-experiment-
+@Github: https://github.com/Celint/cryptography
 @Date: 2019-06-28
 '''
 import math
